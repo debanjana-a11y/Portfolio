@@ -153,7 +153,8 @@ ul q {
     }
 }
 
-#demo_1 {
-    padding-top: 10px;
+video {
+    /* padding-top: 10px; */
+    margin-top: 1em;
     width: 100%;
 }
